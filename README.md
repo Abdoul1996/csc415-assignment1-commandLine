@@ -11,14 +11,15 @@ In addition, each file should have a standard header as defined below.  Make sur
 ```
 /**************************************************************
 * Class:  CSC-415-0# Summer 2022
-* Name:
-* Student ID:
-* GitHub Name:
+* Name: Abdoulfatah Abdillahi
+* Student ID: 921623492
+* GitHub Name: Abdoul1996
 * Project: Assignment 1 – Command Line Arguments
 *
-* File: <name of this file>
+* File: <abdillahi_abdoulfatah_HW1_main.c>
 *
-* Description:
+* Description:This project is to practice C program that displaying the numner of arguments 
+                from the command line and listing each one on console.
 *
 **************************************************************/
 ```

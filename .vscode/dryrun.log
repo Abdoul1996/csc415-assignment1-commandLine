@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/student/Documents/csc415-assignment-1-command-line-Abdoul1996/csc415-assignment-1-command-line-Abdoul1996'
+make: Leaving directory '/home/student/Documents/csc415-assignment-1-command-line-Abdoul1996/csc415-assignment-1-command-line-Abdoul1996'
+ 
+make: *** No rule to make target '__HW1_main.o', needed by '__HW1_main'.
+

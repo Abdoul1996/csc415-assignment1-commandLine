@@ -35,14 +35,14 @@
 # will delete the executable and any object files in your directory.
 #
 
-LASTNAME=
-FIRSTNAME=
+LASTNAME= Abdillahi 	
+FIRSTNAME= Abdoulfatah 
 HW=1
 
 RUNOPTIONS=Hello World
 
 
-ROOTNAME=$(LASTNAME)_$(FIRSTNAME)_HW
+ROOTNAME=$(ABDILLAHI)_$(ABDOULFATAH)_HW
 FOPTION=_main
 CC=gcc
 CFLAGS= -g -I.
